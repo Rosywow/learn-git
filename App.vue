@@ -1,3 +1,6 @@
 <template>
-    <main>123</main>
+  <main>
+    123
+    <p>2</p>
+  </main>
 </template>
